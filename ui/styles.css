@@ -1,0 +1,33 @@
+/* ui/assets/style.css */
+.main {
+    background: linear-gradient(135deg, #0f4c81, #1e90ff);
+    color: white;
+}
+
+.stChatMessage {
+    border-radius: 12px;
+    padding: 12px;
+    margin: 8px 0;
+}
+
+.user-message {
+    background: #e3f2fd;
+    color: #0d47a1;
+    align-self: flex-end;
+}
+
+.assistant-message {
+    background: #fff3e0;
+    color: #e65100;
+}
+
+.logo {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.logo img {
+    width: 120px;
+    border-radius: 50%;
+    border: 4px solid white;
+}

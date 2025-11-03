@@ -1,0 +1,675 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Aamantran 
+ 
+USER MANUAL 
+FOR 
+CITIZEN
+Project Name Ticketing Module of Aamantran Page no 2 Document Citizen user Manual  
+ 
+REVISION HISTORY 
+ 
+Version 
+No 
+Date Remarks Updated By 
+1.0 05/01/2023 Released for RDC 2023   
+  1.1   27/06/2023 Released for IDC 2023  
+  1.2   18/12/2023   Released for RDC 2024  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+ 
+Project Name Ticketing Module of Aamantran Pa g e  3 Document User Manual for Citizen 
+ 
+Contents 
+1. INTRODUCTION: ............................................................................................................................. 4 
+2. HOME PAGE ..................................................................................................................................... 5 
+2.1 BOOK YOUR TICKETS.......................................................................................................................... 6 
+2.2 TICKET AVAILABILITY ........................................................................................................................ 9 
+3. GUEST LIST .................................................................................................................................... 10 
+5.1 AADHAAR ID / VIRTUAL ID ............................................................................................................... 10 
+5.2 DRIVING LICENSE .............................................................................................................................. 13 
+5.3 PASSPORT ........................................................................................................................................... 13 
+5.4 VOTER ID ........................................................................................................................................... 13 
+4. BOOK TICKET ............................................................................................................................... 18 
+6.1 PAY U ................................................................................................................................................. 19 
+6.2 BILLDESK .......................................................................................................................................... 21 
+6.3 SBIEPAY ............................................................................................................................................ 24 
+5. BOOKED HISTORY ....................................................................................................................... 27 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Name Ticketing Module of Aamantran Pa g e  4 Document User Manual for Citizen 
+ 
+1. Introduction: 
+ 
+Public User: 
+ Public User is a person who can book the tickets for events through online. 
+ 
+Functionalities: 
+• Adding guests to aamantran. 
+• Booking tickets for event through aamantran portal. 
+• Payment for ticket can be done through online payment gateways. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Name Ticketing Module of Aamantran Pa g e  5 Document User Manual for Citizen 
+ 
+2. Home Page 
+• Open web browser (Ex: Mozilla Firefox or chrome) 
+• Access following URL https://www.aamantran.mod.gov.in/ticketing browser. 
+• It will re-direct to the Home Page.  
+ 
+ 
+ 
+• In home page there is option to change language to Hindi or English. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  6 Document User Manual for Citizen 
+ 
+2.1 Book Your Tickets 
+ 
+• Click on “Book Your Tickets here” to book tickets, after click below page will open. 
+ 
+ 
+ 
+• Enter the Mobile number if already registered. 
+• Enter the correct captcha and click on “Request OTP”  
+• On valid captcha and authorized user, below window will open. 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  7 Document User Manual for Citizen 
+ 
+• Enter the OTP received on registered mobile number. 
+• If OTP is not received yet, click on “Resend OTP” to generate new OTP 
+• On valid of OTP, can able to login to Aamantran ticketing portal. 
+ 
+ 
+ 
+• If not registered yet, click on “Register to Book Ticket” button 
+• Enter the name, mail, phone number and received OTP, and captcha  
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  8 Document User Manual for Citizen 
+ 
+• click on Terms and Conditions to view the T&C 
+ 
+ 
+ 
+ 
+• Accept the Terms and condition and click on “Register”, it will redirect to Guest page. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  9 Document User Manual for Citizen 
+ 
+2.2 Ticket Availability 
+• Upon clicking the “Ticket Availability” button, citizens can access real-time 
+information on ticket availability, categorized by date, time, and specific events, 
+offering a convenient and transparent method for booking their tickets. 
+ 
+ 
+ 
+ 
+Note: - Tickets can be booked only against today's availability 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  10 Document User Manual for Citizen 
+ 
+3. Guest List 
+ 
+❖ Guests should be added to system to book tickets. 
+ 
+ 
+• To add guest, select Identity Proof Document Type from dropdown like Aadhar ID, 
+Driving License, Passport, Voter ID 
+• It is recommended to book the tickets using Aadhaar ID/Virtual ID so as to 
+reduce the chances of cancellation at the stage of document verification. 
+ 
+5.1 Aadhaar ID / Virtual ID 
+• Upon selecting Aadhaar ID as ID Type and can enter either Aadhaar number or 
+Virtual ID also. 
+• In case of Aadhaar ID is chosen, then user will get populated to read the Aadhaar 
+terms and condition and accept the form as shown below  
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  11 Document User Manual for Citizen 
+ 
+• In-case of selection of Aadhaar ID, enter Aadhaar number and request for OTP. UIDAI will 
+generate and send OTP to the Aadhar linked Mobile number.  
+ 
+ 
+ 
+• On valid OTP, it will fetch the Guest Information from UIDAI. 
+ 
+ 
+ 
+• If you want to enter VID, steps are provided in “How to generate Virtual ID”. 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  12 Document User Manual for Citizen 
+ 
+• Enter the Virtual ID, OTP will send to Registered Mobile Number. 
+ 
+ 
+• On valid OTP, it will fetch the Guest information from UIDAI 
+ 
+ 
+ 
+• If current address is other than permanent address, then select checkbox provided as shown 
+below and enter the current address 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  13 Document User Manual for Citizen 
+ 
+5.2 Driving License 
+ 
+• If Citizen selects ID Type as Driving License, Then He /She has to enter DL Number, upload 
+DL Images. 
+• Note: Ticket(s) will be cancelled if ID proof is uploaded without complete address 
+• Image Size should be less than 300KB. File type should be 'jpeg', 'jpg', 'png','bmp','webp 
+ 
+ 
+ 
+5.3 Passport 
+ 
+• If Citizen selects ID Type as Passport, Then He/She has to enter Passport Number, upload 
+Passport Image. 
+• Note: Ticket(s) will be cancelled if ID proof is uploaded without complete address 
+• Image Size should be less than 300KB. File type should be 'jpeg', 'jpg', 'png','bmp','webp 
+ 
+ 
+ 
+5.4 Voter ID 
+ 
+• If Citizen selects ID Type as Voter ID, Then He /She has to enter Voter ID Number, upload 
+Voter ID front side and back side Images. 
+• Note: Ticket(s) will be cancelled if ID proof is uploaded without complete address 
+• Image Size should be less than 300KB.File type should be 'jpeg', 'jpg', 'png','bmp','webp 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  14 Document User Manual for Citizen 
+ 
+ 
+ 
+ 
+• By clicking on save guest, Guest will be saved successfully in system and can be used to book 
+tickets. 
+• User can See the Added Guest List on top of the screen.  
+ 
+ 
+ 
+• User Can view The Added Guest List By clicking on View Icon . 
+ 
+• Aadhaar ID  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  15 Document User Manual for Citizen 
+ 
+• Driving License. 
+ 
+ 
+ 
+• Passport. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  16 Document User Manual for Citizen 
+ 
+• Voter ID. 
+ 
+ 
+ 
+ 
+ 
+• User have authority to edit the added guest except Aadhaar Type by Clicking on Edit Icon  
+• But he can’t change the ID Type 
+• Can edit the user , before ticket get booked  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  17 Document User Manual for Citizen 
+ 
+• User have authority to delete the guest by clicking on Delete icon before he books the ticket. 
+• He can agree to delete of disagree to cancel the deletion of guest. 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  18 Document User Manual for Citizen 
+ 
+4. Book Ticket  
+• Different options available for making payment to book a ticket with PayU, BillDesk 
+and SBIePay. 
+• Select event from drop down 
+• On selection event Tickets available for the event will be displayed along with 
+event date, address and seating layout. 
+• To view Seating Arrangement during event, click ‘Venue Layout’ 
+• Select one or more guests from drop down checkbox and particular ticket type from 
+dropdown and select enclosure group. 
+ 
+ 
+• In case of booking different denomination tickets, click on add guest and repeat same 
+as above. 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  19 Document User Manual for Citizen 
+ 
+• Based on selection of no of guests and ticket type. The total amount which needs to 
+paid will be displayed. 
+ 
+• Once tickets are booked. It cannot be cancelled. 
+ 
+6.1 Pay U 
+  Citizen Can book ticket using PayU by selecting PayU option as shown in picture and click 
+on Procced to payment button. 
+ 
+ 
+• User will be redirected to Payment page as shown below. 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  20 Document User Manual for Citizen 
+ 
+• On Successful Payment the below message along with transaction details will be displayed. 
+ 
+• Note: Page will auto redirect to booking page in 30 Secs. 
+• On completion of payment transaction, it will be redirected to Booked History in Aamantran 
+portal and can download the ticket by clicking on Download ticket. 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  21 Document User Manual for Citizen 
+ 
+• Ticket will be downloaded in PDF as shown below PDF. 
+ 
+ 
+ 
+6.2 BillDesk 
+ 
+• Citizen Can book ticket using BillDesk by selecting BillDesk option as shown in picture and 
+click on Procced to payment button. 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  22 Document User Manual for Citizen 
+ 
+• User will be redirected to Payment page as shown below. 
+• User can select either credit card , Internet Banking or UPI as per their choice.  
+ 
+  
+ 
+• Enter the card details or internet banking details or UPI based on the payment mode and make 
+payment 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  23 Document User Manual for Citizen 
+ 
+ 
+• On Successful Payment the below message along with transaction details will be displayed. 
+ 
+• Note: Page will auto redirect to booking page in 30 Secs. 
+• On completion of payment transaction, it will be redirected to Booked History in Aamantran 
+portal and can download the ticket by clicking on Download ticket. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  24 Document User Manual for Citizen 
+ 
+• Ticket will be downloaded in PDF as shown below PDF. 
+ 
+ 
+ 
+6.3 SBIePay 
+• Citizen Can book ticket using SBIePay by selecting SBIePay option as shown in picture and 
+click on Procced to payment button. 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  25 Document User Manual for Citizen 
+ 
+• User will be redirected to Payment page as shown below. 
+• User can select any payment method for the payment. 
+ 
+ 
+ 
+ 
+• On Successful Payment the below message along with transaction details will be displayed. 
+ 
+ 
+• Note: Page will auto redirect to booking page in 30 Secs. 
+
+Project Name Ticketing Module of Aamantran Pa g e  26 Document User Manual for Citizen 
+ 
+• On completion of payment transaction, it will be redirected to Booked History in Aamantran 
+portal and can download the ticket by clicking on Download ticket. 
+ 
+ 
+ 
+• Ticket will be downloaded in PDF as shown below PDF. 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  27 Document User Manual for Citizen 
+ 
+5. Booked History 
+ 
+• In Booked History, can see ticket History. The History may have Allocated Tickets, 
+Cancelled Tickets, Payment Pending Tickets list also.   
+ 
+ 
+ 
+• Can download the ticket by clicking on download ticket icon  
+ 
+ 
+ 
+ 
+• Can download the ticket in either Mobile View or Web View as shown Below. 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  28 Document User Manual for Citizen 
+ 
+ 
+ 
+ 
+ 
+ 
+• Mobile View Ticket Will be like  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  29 Document User Manual for Citizen 
+ 
+• In the case of Ticket cancellation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  30 Document User Manual for Citizen 
+ 
+ 
+• Web View Ticket Will be Like  
+ 
+ 
+ 
+ 
+• Can download user manual using option provided as shown below 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  31 Document User Manual for Citizen 
+ 
+ 
+• Below Page shows the profile view and logout option, by clicking on your name, you can 
+see your profile details 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Can logout his session by clicking on logout option.  
+ 
+ 
+❖ Citizen can see current version, version released date and copyright details about 
+the application by clicking on “About”. 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  32 Document User Manual for Citizen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Can see the Entire Aamantran portal in Hindi and English language by switching 
+language 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Project Name Ticketing Module of Aamantran Pa g e  33 Document User Manual for Citizen 
+ 
+ 
+
