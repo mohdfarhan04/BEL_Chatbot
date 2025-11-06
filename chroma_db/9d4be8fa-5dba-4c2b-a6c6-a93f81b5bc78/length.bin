@@ -1,1 +1,12 @@
-{"source":"knowledge_base/user_manual.txt","chroma:document":"Project Name Ticketing Module of Aamantran Pa g e  28 Document User Manual for Citizen \n \n \n \n \n \n \n• Mobile View Ticket Will be like  \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nProject Name Ticketing Module of Aamantran Pa g e  29 Document User Manual for Citizen \n \n• In the case of Ticket cancellation."}
+Project Name Ticketing Module of Aamantran Pa g e  11 Document User Manual for Citizen 
+ 
+• In-case of selection of Aadhaar ID, enter Aadhaar number and request for OTP. UIDAI will 
+generate and send OTP to the Aadhar linked Mobile number.  
+ 
+ 
+ 
+• On valid OTP, it will fetch the Guest Information from UIDAI. 
+ 
+ 
+ 
+• If you want to enter VID, steps are provided in “How to generate Virtua

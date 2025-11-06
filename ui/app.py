@@ -25,17 +25,15 @@ except FileNotFoundError:
         st.warning("Could not load CSS file.")
 
 
+
 # Header
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    # Adjust path for assets
-    try:
-        st.image("ui/assets/logo.png", width=100)
-    except:
-        try:
-            st.image("assets/logo.png", width=100)
-        except:
-            st.warning("Logo image not found.")
+    logo_path = "ui/logo.png.jpeg"
+    if os.path.exists(logo_path):
+        st.image(logo_path, width=400)
+    else:
+        st.warning("Logo not found! Place `logo.png` in `ui/`")
 
 st.markdown("<h1 style='text-align: center; color: white;'>Aamantran Portal Assistant</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: #ddd;'>Ask about ticket booking, guest list, payment, or download</p>", unsafe_allow_html=True)
