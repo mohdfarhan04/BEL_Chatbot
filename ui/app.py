@@ -1,18 +1,42 @@
 # ui/app.py
 import streamlit as st
-from rag.chain import answer
+import sys
 import os
+
+# Add the parent directory (chatbot) to the system path
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+from rag.chain import answer
 
 st.set_page_config(page_title="Aamantran Assistant", page_icon="flag", layout="centered")
 
 # Custom CSS
-with open("ui/assets/style.css") as f:
-    st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+# Note: Your original file was "ui/assets/style.css". 
+# This path assumes 'assets' is relative to 'app.py'
+try:
+    with open("ui/styles.css") as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+except FileNotFoundError:
+    # Fallback if the path is different when running
+    try:
+        with open("styles.css") as f:
+            st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+    except FileNotFoundError:
+        st.warning("Could not load CSS file.")
+
 
 # Header
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    st.image("ui/assets/logo.png", width=100)
+    # Adjust path for assets
+    try:
+        st.image("ui/assets/logo.png", width=100)
+    except:
+        try:
+            st.image("assets/logo.png", width=100)
+        except:
+            st.warning("Logo image not found.")
+
 st.markdown("<h1 style='text-align: center; color: white;'>Aamantran Portal Assistant</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; color: #ddd;'>Ask about ticket booking, guest list, payment, or download</p>", unsafe_allow_html=True)
 

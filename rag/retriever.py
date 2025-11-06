@@ -7,7 +7,8 @@ import os
 
 def get_retriever():
     # Load
-    loader = TextLoader("knowledge_base/user_manual.txt")
+    # To:
+    loader = TextLoader("knowledge_base/user_manual.txt", encoding="utf-8")
     docs = loader.load()
 
     # Split
